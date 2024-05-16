@@ -1,0 +1,54 @@
+{
+    "future": {
+        "frequency": 246,
+        "additional information": "существительное в единственном числе"
+    },
+    "life": {
+        "frequency": 1586,
+        "additional information": "существительное в единственном числе"
+    },
+    "finish": {
+        "frequency": 42,
+        "additional information": "существительное в единственном числе"
+    },
+    "school": {
+        "frequency": 411,
+        "additional information": "существительное в единственном числе"
+    },
+    "early": {
+        "frequency": 303,
+        "additional information": "наречие"
+    },
+    "late": {
+        "frequency": 238,
+        "additional information": "наречие"
+    },
+    "start": {
+        "frequency": 312,
+        "additional information": "существительное в единственном числе"
+    },
+    "career": {
+        "frequency": 251,
+        "additional information": "существительное в единственном числе"
+    },
+    "enjoy": {
+        "frequency": 227,
+        "additional information": "существительное в единственном числе"
+    },
+    "subjects": {
+        "frequency": 28,
+        "additional information": "существительное во множественном числе"
+    },
+    "sign": {
+        "frequency": 87,
+        "additional information": "существительное в единственном числе"
+    },
+    "guide": {
+        "frequency": 25,
+        "additional information": "существительное в единственном числе"
+    },
+    "profession": {
+        "frequency": 33,
+        "additional information": "существительное в единственном числе"
+    }
+}

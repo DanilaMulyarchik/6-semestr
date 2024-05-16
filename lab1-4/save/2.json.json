@@ -1,0 +1,162 @@
+{
+    "about": {
+        "frequency": 2,
+        "additional information": "предлог/подчинительный союз"
+    },
+    "be": {
+        "frequency": 1,
+        "additional information": "глагол, базовая форма"
+    },
+    "because": {
+        "frequency": 1,
+        "additional information": "предлог/подчинительный союз"
+    },
+    "career": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "do": {
+        "frequency": 2,
+        "additional information": "глагол, базовая форма"
+    },
+    "early": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "enjoy": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "ever": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "finish": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "future": {
+        "frequency": 3,
+        "additional information": "существительное в единственном числе"
+    },
+    "going": {
+        "frequency": 2,
+        "additional information": "глагол, герундий/причастие настоящего времени"
+    },
+    "good": {
+        "frequency": 1,
+        "additional information": "прилагательное"
+    },
+    "guide": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "have": {
+        "frequency": 1,
+        "additional information": "глагол, базовая форма"
+    },
+    "if": {
+        "frequency": 1,
+        "additional information": "предлог/подчинительный союз"
+    },
+    "it": {
+        "frequency": 1,
+        "additional information": "местоимение"
+    },
+    "late": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "life": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "like": {
+        "frequency": 1,
+        "additional information": "предлог/подчинительный союз"
+    },
+    "maybe": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "more": {
+        "frequency": 1,
+        "additional information": "наречие в сравнительной степени"
+    },
+    "never": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "others": {
+        "frequency": 1,
+        "additional information": "существительное во множественном числе"
+    },
+    "profession": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "school": {
+        "frequency": 2,
+        "additional information": "существительное в единственном числе"
+    },
+    "sign": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "some": {
+        "frequency": 1,
+        "additional information": "артикль"
+    },
+    "start": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "subjects": {
+        "frequency": 1,
+        "additional information": "существительное во множественном числе"
+    },
+    "than": {
+        "frequency": 1,
+        "additional information": "предлог/подчинительный союз"
+    },
+    "they": {
+        "frequency": 1,
+        "additional information": "местоимение"
+    },
+    "thinking": {
+        "frequency": 1,
+        "additional information": "глагол, герундий/причастие настоящего времени"
+    },
+    "this": {
+        "frequency": 1,
+        "additional information": "артикль"
+    },
+    "thought": {
+        "frequency": 1,
+        "additional information": "существительное в единственном числе"
+    },
+    "too": {
+        "frequency": 1,
+        "additional information": "наречие"
+    },
+    "what": {
+        "frequency": 2,
+        "additional information": "вопрос кто, что"
+    },
+    "when": {
+        "frequency": 1,
+        "additional information": "вопрос, где, когда"
+    },
+    "will": {
+        "frequency": 1,
+        "additional information": "модальный глагол"
+    },
+    "you": {
+        "frequency": 6,
+        "additional information": "местоимение"
+    },
+    "your": {
+        "frequency": 3,
+        "additional information": "местоимение"
+    }
+}
